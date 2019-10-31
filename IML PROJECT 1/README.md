@@ -1,1 +1,2 @@
+# Logistic Regression Implementation
 Predicting if a cell has grown a tumor can help save a patient’s life considerably. The project aims to utilize logistic regression to predict whether a breast cell is malignant or not. The model classifies a cell as class 1 (malignant) or class 0 (benign) by reducing the loss, adjusting weights and biases to reach optimum minima. A practical implementation has been performed to better understand the problem and verify the results.
