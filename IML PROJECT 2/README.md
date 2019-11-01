@@ -6,6 +6,7 @@ proj2.pdf-------------------: Project Report.<br/>
 data-set--------------------: Fashion MNIST Dataset.<br/>
 neural_network.py-----------: Implementation of Neural Network in Python.<br/>
 mnn_cnn.py------------------: Implementation of Multi-layer neural network and Convolutional neural network.<br/>
+util_mnist_reader-----------: Script to read MNIST dataset.<br/>
 
 The Fashion MNIST dataset can be downloaded from:<br/>
 https://github.com/zalandoresearch/fashion-mnist
