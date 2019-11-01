@@ -3,6 +3,6 @@ Predicting if a cell has grown a tumor can help save a patient’s life consider
 
 proj1.pdf-------------------: Project Report <br/>
 data-set--------------------: Wisconsin Diagnostic Breast Cancer Data Set <br/>
-logisticRegression.py-------: Implementation of Logistic Regression in Python <br/>
+logisticRegression.py------: Implementation of Logistic Regression in Python <br/>
 
 The WDBC data set can be downloaded from :  (https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29) <br/>
